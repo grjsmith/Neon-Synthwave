@@ -16,7 +16,7 @@
   </p>
 </div>
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./cover.jpg)
 
 
 <!-- TABLE OF CONTENTS -->
