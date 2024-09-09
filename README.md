@@ -60,14 +60,13 @@ Personal Knowledge Management Systems like Evernote, Notion and Obsidian have be
 <!-- GETTING STARTED -->
 ### Installation
 
-- Download Obsidian if you haven't already. Hopefully I'll get this added to their community themes soon. Then I'll change these instructuions.
-- On windows create a folder called "Neon Synthwave" in:
-```
-C:\Users\<name>\Documents\Obsidian_Vault\.obsidian\themes
-```
-- Copy the "theme.css" and "manifest.json" files into that folder.
-- In Obsidian click on the cog icon (Settings). Click on Appearance. Click the Themes drop down and select "Neon Synthwave"
-- Profit?
+- Download and run Obsidian
+- Click the Gear icon to bring up the Obsidian Options Window
+- In the left hand navigation menu click on Appearance
+- Click the Manage button to the right of Themes
+- Type Neon in the search filter
+- Select Neon Synthwave
+- Click the Install button
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
 <!--## Usage
